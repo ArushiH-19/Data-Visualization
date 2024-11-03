@@ -2,6 +2,7 @@
 This repository contains the data and Python code used for building Data Visualization project.
 
 NYC's Airbnb data is used to help AirBnbs host to maximize their revenue. The data file used are listed below:
+
 a) Listings.csv - Contains data about the AirBnb listings like listing's unique ID, amenities, room type, etc.
 b) Host.csv - Host details like their ID, Name, time they have been host from, etc. details.
 c) Neigbourhood.csv - Contains data neighbourhood and neighbourhood groups. Neighbourhood group refers to the 5 main borughs of NY.
