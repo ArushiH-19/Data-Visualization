@@ -12,3 +12,5 @@ f) Calendar.csv - Booking details for listings
 The Jupyter notebook AirBnb.ipynb contains the code for data exploration, data cleansing, and data transformation. The file generated from the code are fed into Tableau to draw insights and value from the data.
 
 Link to datasets: https://insideairbnb.com/new-york-city/
+Link to ERD: https://app.diagrams.net/#G1bsJcgZQ7_DQRD9c1tExRvfTihbmk_HPX#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
+Link to LDM: https://app.diagrams.net/#G1m62Vw5XTeA6FEkZL2Lfb62h8Urk92uS5#%7B%22pageId%22%3A%22QpSsPuMYLatTqOWPRRFI%22%7D
