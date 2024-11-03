@@ -5,7 +5,7 @@ NYC's Airbnb data is used to help AirBnbs host to maximize their revenue. The da
 a) Listings.csv - Contains data about the AirBnb listings like listing's unique ID, amenities, room type, etc.
 b) Host.csv - Host details like their ID, Name, time they have been host from, etc. details.
 c) Neigbourhood.csv - Contains data neighbourhood and neighbourhood groups. Neighbourhood group refers to the 5 main borughs of NY.
-d) Reviews.csv - Contains data about ratings, review score on cleanliness, price, etc.
+d) Reviews.csv - Contains data about ratings, review score on cleanliness, price, etc. (Truncated file has been added as the file size is over 25MB)
 e) Revenue.csv - Monthly and Yearly revenue values for lsitings. The file can be used to find the revenue for hosts as well.
 f) Calendar.csv - Booking details for listings
 
