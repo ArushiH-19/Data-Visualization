@@ -10,3 +10,5 @@ e) Revenue.csv - Monthly and Yearly revenue values for lsitings. The file can be
 f) Calendar.csv - Booking details for listings
 
 The Jupyter notebook AirBnb.ipynb contains the code for data exploration, data cleansing, and data transformation. The file generated from the code are fed into Tableau to draw insights and value from the data.
+
+Link to datasets: https://insideairbnb.com/new-york-city/
